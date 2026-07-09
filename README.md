@@ -1,4 +1,4 @@
-v2.5.4
+v2.5.5
 
 https://github.com/powerfullz/override-rules
 
